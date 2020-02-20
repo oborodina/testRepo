@@ -1,0 +1,19 @@
+{
+	"id": "13600009-4b73-45a1-9f9e-9f2e86c2c123",
+	"name": "New variables",
+	"values": [
+		{
+			"key": "username",
+			"value": "admin",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "admin",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-02-18T19:28:51.195Z",
+	"_postman_exported_using": "Postman/7.18.0"
+}
